@@ -1,12 +1,12 @@
-# Team 4 Group Project No.2: 
+# Team 4 - Group Project No.2
 
 ### Proposal : 
-Our project is on studying what Algo thinks vs. what the Media thinks on FANG stocks performance for 2020. For the Algo side, we would apply algorithmetic trading techniques (SMA,EMA,RFF) to generate trading signals on FANG stocks, demonstrated by dashboard and evaluation. For the Media side, we gather articles on FANG stocks and aggregate sentimental analysis on published articles at time points when Algo signals a decision. Then we want to compare how different the decisions made by algo with public views in trading FANG.  
+We will be perfoming a deep-dive into what an algorithm thinks vs. what the media sentiment is for the FAANG stocks performance for 2020. For the algorithm portion, we will apply algorithmic trading techniques, such as SMA,EMA & RFF, to generate trading signals for the FAANG stocks, which will then be demonstrated with a dashboard for easy evaluation. For the media portion, we will gather news articles on FAANG stocks & aggregate sentimental analysis on published articles at the corresponding points in time points in which the algorithm signals a decision. Then, we will compare the difference between the decisions made by the algorithm with the public viewpoint in mind.  
 
-Techniques: Algo trading, NLP
+Techniques: 1) Algorithm Trading 2) NLP
 
 ### Things to do: 
-- Discuss idea again with instructors
+- Discuss and confirm idea again with instructors
 - Complete trading signals of EWA, EWV and BB
 - Ask how to present on non-local dashboard 
 - Start with NLP sentiment analysis with estimated dates based on FB SMA
