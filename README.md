@@ -1,12 +1,24 @@
-# Team 4 - Group Project No.2
+# Team 4 Group Project No.2: 
 
-### Proposal : 
-We will be perfoming a deep-dive into what an algorithm thinks vs. what the media sentiment is for the FAANG stocks performance for 2020. For the algorithm portion, we will apply algorithmic trading techniques, such as SMA,EMA & RFF, to generate trading signals for the FAANG stocks, which will then be demonstrated with a dashboard for easy evaluation. For the media portion, we will gather news articles on FAANG stocks & aggregate sentimental analysis on published articles at the corresponding points in time points in which the algorithm signals a decision. Then, we will compare the difference between the decisions made by the algorithm with the public viewpoint in mind.  
+### Proposal : How do trading decisions made by Algorithmic Trading compares with Sentiment Analysis
+Our project is on studying what Algo thinks vs. what the Media thinks on FANG stocks performance for 2020. For the Algo side, we would apply algorithmetic trading techniques (SMA,EMA,RFF) to generate trading signals on FANG stocks, demonstrated by dashboard and evaluation. For the Media side, we gather articles on FANG stocks and aggregate sentimental analysis on published articles at time points when Algo signals a decision. Then we want to compare how the decisions made by algo differ from public views when trading FAANG.  
 
-Techniques: 1) Algorithm Trading 2) NLP
+Sources of Data: YTD FAANG peformance data (January 1, 2020 - September 30, 2020): **Google Finance**
+nwews sources: for NLP scores from News ApI, Daily Scores for ideally 5 years max. (Articles upto amonth old) we can ue Google Trends too.
+
+Techniques: **Algo trading, NLP**
+
+
+Tools: Google Colab, Jupyter Notebook
+
+Part 1 - (X)Is there an acutal relation between the sentiment of the stock and how the stock is traded the next day (Y)?
+Part 2 - If yes, can we train a model that maximizes the returns to compare with other stocks, energy, or health care, momentum
+Part 2 - 
+
 
 ### Things to do: 
-- Discuss and confirm idea again with instructors
+- Discuss idea again with instructors
 - Complete trading signals of EWA, EWV and BB
 - Ask how to present on non-local dashboard 
 - Start with NLP sentiment analysis with estimated dates based on FB SMA
+
