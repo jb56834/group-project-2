@@ -13,7 +13,7 @@ Tools: Google Colab, Jupyter Notebook
 
 Part 1 - (X)Is there an acutal relation between the sentiment of the stock and how the stock is traded the next day (Y)?
 Part 2 - If yes, can we train a model that maximizes the returns to compare with other stocks, energy, or health care, momentum
-Part 2 - 
+Part 2 - NLP - How to get the scillator to work
 
 
 ### Things to do: 
@@ -22,3 +22,10 @@ Part 2 -
 - Ask how to present on non-local dashboard 
 - Start with NLP sentiment analysis with estimated dates based on FB SMA
 
+Use NLP Analysis to 
+
+1) Trey to see the compound scores and see whether they have evolved over time and see a link between sentiments and pedictions. Trading volume data
+
+2) use Momentum indicators to see how the perfomance has been over the last 3 years, 
+
+3) Trading strategies on it energy index, tech index, 
