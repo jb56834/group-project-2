@@ -1,4 +1,6 @@
-# Team 4 Group Project No.2: 
+### Team 4 Group Project No.2: 
+
+## Team Members: Aaron Sechler, Kevin Machine, Jiaping Bian & Julian Oquendo
 
 ### Central Question & Overview: Are we currently in the midst of another Tech Bubble? 
 
@@ -13,7 +15,7 @@ They have led the bull-run from 2010 to COVID-19 -- Was it legitimate?
 They have continued to outpace the rest of the market since COVID-19 -- Do we believe this is because of society’s sudden increased reliance on tech or just irrational buying?
 -- We will breakdown the indicators we chose a little more in-depth to better explain to the class what each of these really are and how they work (NVI, MFI)
 
-#### Part 1: Momentum TA of Historical Data Analysis
+### Part 1: Momentum TA of Historical Data Analysis
 
 -- We will gather and analyze both price and volume data for the 5 stocks over the past decade
 -- We will use a multitude of indicators for each stock to see which ones are the most acutely correlated to the actual price movement of the stock
@@ -26,3 +28,4 @@ They have continued to outpace the rest of the market since COVID-19 -- Do we be
 -- We will use the Vader scores to augment our findings from Part 1 to conclude whether or not we believe the Tech Bubble is popping or not
 
 ### Conclusion: Is this a bubble or not?
+
