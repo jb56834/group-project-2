@@ -1,6 +1,6 @@
-### Team 4 Group Project No.2: 
+## Team 4 Group Project No.2: 
 
-# Team Members: Aaron Sechler, Kevin Machine, Jiaping Bian & Julian Oquendo
+#### Team Members: Aaron Sechler, Kevin Machine, Jiaping Bian & Julian Oquendo
 
 ### Central Question & Overview: Are we currently in the midst of another Tech Bubble? 
 
